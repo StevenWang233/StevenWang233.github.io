@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Z page</title>
+
+</head>
+
+<body>
+
+<nav>
+	<ul>
+		<li><a href="/">Main</a></li>
+		<li><a href="/">About THEM</a></li>
+		<li><a href="/">Learn more</a></li>
+	</ul>
+</nav>
+
+<h1>Zombie</h1>
+
+<img src="../image/zombies.jpg" alt="some different kinds of zombies"/>
+
+<p> 
+
+
+
+
+</html>
