@@ -2,3 +2,38 @@ h1{
 	color: yellow;
 	background-color: blue;
 }
+
+nav ul {
+	list-style-type:none;
+	margin:0;
+	padding: 0;
+	blackground-color: red;
+	width: 130px;
+	min-height: 100%;
+	position:fixed;
+}
+
+nav ul li a {
+	display: block;
+	text-decoration: none;
+	color:#000;
+	padding-left:16px;
+	padding-top:8px;
+	padding-bottom: 8px;
+	border-width:1px;
+	border-style: ridge;
+}
+
+
+
+
+nav ul il a:hover{
+	background-color:#555;
+	color:#fff;
+}
+
+.on{
+	background-color:#4CAF50;
+	color:	#fff;
+}
+
